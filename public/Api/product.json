@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Running Shoe",
+        "description": "Perfect for your daily runs",
+        "price": 85.00,
+        "currency": "USD",
+        "category": "Running",
+        "target": "Men",
+        "stock": 42,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBI9_b3mf3JoJxoGlFgo7WJatLWRZ0yRS7Cnk5QFUyx5Rbb5UvrrXC_xJhOGyHr_0Wtel6laZIcYLGlKadyRn28BBDJEijsYi6INC5B2twYCtByPL8RI_vqxzrHM26g_mYYDEUrI2V3RwWFAeFM5XrfYGQjUFDMa3KdpHltMSNNb73k3y2ww_e_jbngT5sa9L0uXDWhvw6d0RzBAjnINRKkomenKMq4Ec-ZOBW-i0xm9g12rnek3wBIPid91tFogkaKPKSRilla5pM"
+    },
+    {
+        "id": 2,
+        "name": "Casual Sneaker",
+        "description": "Stylish for everyday wear",
+        "price": 75.00,
+        "currency": "USD",
+        "category": "Casual",
+        "target": "Women",
+        "stock": 58,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5tviTYraHOljOAdrjpfgqzr9IIN-EbMKTxs8khbNFfse98FGblJBYzWWd4dxXZMsC-w_WJcTh7e_Fkc3z9uUxKr1kfNpySqhz_96rXi2s8orX_OqTH-46S3ix_3XN8ZQVY-T35z_4mfXep-e_EFR1m_8t-CtilIK0hKmZ1ePMUFfYCvGYw4uNdhtlYPsWvjzJdIq4kH4RN2lSvCWbCUvkGDn1OY6u6UaufA1kDRcybDD06_mBXP_SIeGtXSWND7FkVL1b3e0YqMA"
+    },
+    {
+        "id": 3,
+        "name": "Hiking Boot",
+        "description": "Durable for outdoor adventures",
+        "price": 120.00,
+        "currency": "USD",
+        "category": "Outdoor",
+        "target": "Men",
+        "stock": 25,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCwaDNnJmk9bgN6jNWAK9o8qeTthdtVY_ZVJkzLtzQWluSXR30cf6Cbh1R4l3v1heA2YxAQqB1OieoGyMRUgfXGOY7kRnVuU1FFIwbP16rDvHF7RPhNRsKYd00WWB1XzwgrWtzrRxp2Ey5bNEybXivef1dDWbnHgfFpEQ3z3RXpRPbSCA3m7-plinRBpz8dO2_Qr7fF-HFEQ0QbI6v5cSSzWVYFili-RplBiZ_6LMGCVYbG8b32siXzzu8ZxCF9sNigOB0iHAagfGk"
+    },
+    {
+        "id": 4,
+        "name": "Basketball Shoe",
+        "description": "High performance on the court",
+        "price": 150.00,
+        "currency": "USD",
+        "category": "Sports",
+        "target": "Men",
+        "stock": 37,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5O7_S7OUqS-qALzjmuZWT-9KbzFjHpzjhKN95QwbG-2BT5Qn4FGzmHo_ShECNLIxTZz5ioqM3jh4t4PDD2VX_lys1mj8Cp1QK6nxgybmOntgAhjPT0tEVZiP-UVwGIjlcFYgZzAkxipNqqJO8LXArfILe2r8rYGH7Bw6UPmd_eYLKuJwxBklSZyX1K5CQ3lsVNKk7ZOfb0pFSVw385NOGSoIZ2RJum88rw9dj_Ys0m2FEbMWkiR2szMeIPR0EhD5aBFs99S8_FEI"
+    },
+    {
+        "id": 5,
+        "name": "Skate Shoe",
+        "description": "Comfortable for skateboarding",
+        "price": 65.00,
+        "currency": "USD",
+        "category": "Skate",
+        "target": "Kids",
+        "stock": 62,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCbtwLeon60Y6CRVAG43Z2p_0CSa8nBh5YrhZSpEKXNkqVDWs2_nmMG846JUTa61t7-ZdZMqfh3sk-6Sl1bLx_rQpNNV2WAT03y0uwqqzBCEG-b4RdH6m6AYzlCpVJPHVwokIh04uyDBFwAVVzML5N0Am1CoYh1UrhlX0O1Rqn6TbpqFmtjVsRvDC_s2HE-F4dJO0LU28CryzVKJPb5SlU_g9SM5usgY9XUYsescqoKhAImyW9_ai6fbI5xb6csqf7CPjqQ4mjLXxE"
+    },
+    {
+        "id": 6,
+        "name": "Training Shoe",
+        "description": "Versatile for all types of training",
+        "price": 95.00,
+        "currency": "USD",
+        "category": "Training",
+        "target": "Women",
+        "stock": 48,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCs85T5mOKOHVyLkwGIol6Yjp4ZHixsXwha5MFOhckswC-RVfA3e7TIefjQeUBVwtyvt-uMSiJwuSB52mVShgFXVEm1vjBvWU-N-J7oBhV5u3lEHji_A7ctWR44jrN6Oqb3ZzaoqUrw4mS7uNBC71WDJrU9MIXRqvFqyqarNS5ya06ces7fdmf2Rid_O_05g7n5ukdyLBZbvy0RPJmGxk90uI73CuTpgvIT65TrotG9Gn8L3bwfaLmMnY0wE4I1YfH0qBsOAmE5eF8"
+    },
+    {
+        "id": 7,
+        "name": "Trail Runner",
+        "description": "Grip and stability for uneven terrain",
+        "price": 110.00,
+        "currency": "USD",
+        "category": "Running",
+        "target": "Women",
+        "stock": 30,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+        "id": 8,
+        "name": "Court Tennis Shoe",
+        "description": "Responsive cushioning for quick cuts",
+        "price": 105.00,
+        "currency": "USD",
+        "category": "Sports",
+        "target": "Men",
+        "stock": 34,
+        "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+        "id": 9,
+        "name": "Lifestyle Runner",
+        "description": "Athleisure comfort with breathable knit",
+        "price": 90.00,
+        "currency": "USD",
+        "category": "Casual",
+        "target": "Unisex",
+        "stock": 60,
+        "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+        "id": 25,
+        "name": "Skate High",
+        "description": "Padded collar and grippy vulcanized sole",
+        "price": 70.00,
+        "currency": "USD",
+        "category": "Skate",
+        "target": "Unisex",
+        "stock": 64,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCwaDNnJmk9bgN6jNWAK9o8qeTthdtVY_ZVJkzLtzQWluSXR30cf6Cbh1R4l3v1heA2YxAQqB1OieoGyMRUgfXGOY7kRnVuU1FFIwbP16rDvHF7RPhNRsKYd00WWB1XzwgrWtzrRxp2Ey5bNEybXivef1dDWbnHgfFpEQ3z3RXpRPbSCA3m7-plinRBpz8dO2_Qr7fF-HFEQ0QbI6v5cSSzWVYFili-RplBiZ_6LMGCVYbG8b32siXzzu8ZxCF9sNigOB0iHAagfGk"
+    }
+]
